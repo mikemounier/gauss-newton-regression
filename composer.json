@@ -1,0 +1,19 @@
+{
+    "name": "mmouni/gauss-newton-regression",
+    "description": "Gauss Newton Regression Package",
+    "type": "library",
+    "require": {
+        "php": "^7.2"
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Mouni\\GaussNewtonRegression\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Michael Mounier"
+        }
+    ]
+}
